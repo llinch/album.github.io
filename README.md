@@ -1,2 +1,0 @@
-# album.github.io
-dss
